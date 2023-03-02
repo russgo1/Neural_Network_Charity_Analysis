@@ -1,4 +1,4 @@
-# Neural_Network_Charity_Analysis
+# Neural Network Charity Analysis
 
 ## Overview
 The purpose of this analysis is to attempt to bulid a neural network model that will predict with at least 75% theoretical accuracy if a charity will successfully use its funds. To accomplish this, 
